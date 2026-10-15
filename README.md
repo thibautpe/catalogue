@@ -9,7 +9,6 @@ Ce dépôt sert de page centrale pour présenter deux outils web   :
 - **Boîte à rythmes** —  Sequencer léger (PWA) pour créer des patterns et jouer des grooves.
   - Dépôt : [Repo Boîte à rythmes](https://github.com/thibautpe/boite-a-rythmes)
   - Démonstration en ligne : [Boîte à rythmes](https://thibautpe.github.io/boite-a-rythmes/)
-  - Documentation et ressources : `Home.md`
 
 ## Capture d'écran
 ### Capture d'écran du métronome
