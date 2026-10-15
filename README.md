@@ -24,5 +24,5 @@ Ce dépôt sert de page centrale pour présenter deux outils web   :
 
 ## Déploiement GitHub Pages
 
-Un workflow GitHub Actions (fichier `.github/workflows/deploy-docs.yml`) publie automatiquement le contenu du dossier `docs/` sur la branche `gh-pages` quand tu pousses sur `main`. Cela crée un site GitHub Pages pour le dépôt. Si tu préfères publier directement depuis `docs/` sur la branche `main`, tu peux activer cette option dans les paramètres du dépôt (Settings → Pages).
+Un workflow GitHub Actions (fichier `.github/workflows/deploy-docs.yml`) publie automatiquement le contenu du dossier `docs/` sur la branche `gh-pages` quand tu pousses sur `main`. Cela crée un site GitHub Pages pour le dépôt. 
  
