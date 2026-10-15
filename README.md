@@ -3,18 +3,18 @@
 Ce dépôt sert de page centrale pour présenter deux outils web   :
 
 - **Metronome** — métronome visuel (PWA) : tempo, rythmes, accents, préréglages et outils d'entraînement.
-  - Dépôt : (https://github.com/thibautpe/metronome)
-  - Démonstration : disponible via GitHub Pages si le site est publié depuis le dossier `docs/`.
+  - Dépôt : [Metronome](https://github.com/thibautpe/metronome)
+  - Démonstration : (https://thibautpe.github.io/metronome/))
 
 - **Boîte à rythmes** —  Sequencer léger (PWA) pour créer des patterns et jouer des grooves.
-  - Dépôt : https://github.com/thibautpe/boite-a-rythmes
-  - Démonstration en ligne : https://thibautpe.github.io/boite-a-rythmes/
+  - Dépôt : (https://github.com/thibautpe/boite-a-rythmes)
+  - Démonstration en ligne : (https://thibautpe.github.io/boite-a-rythmes/)
   - Documentation et ressources : `Home.md`
 
 ## Capture d'écran
-### Capture d'écran du métronomes
+### Capture d'écran du métronome
 ![Capture d'écran du métronome](docs/images/metronome.png)
-### apture d'écran de la Boîte à rythmes
+### Capture d'écran de la Boîte à rythmes
 ![Capture d'écran de la Boîte à rythmes](docs/images/boite.png)
  
 ## Ressources du dépôt

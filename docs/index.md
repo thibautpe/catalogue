@@ -18,7 +18,7 @@ Metronome est un métronome visuel, conçu comme une Progressive Web App (PWA) :
 
 Démo / dépôt
 
-- Démo & source : https://github.com/thibautpe/metronome
+- Démo & source : [Metronome](https://github.com/thibautpe/metronome)
 
 Installation / utilisation
 
