@@ -8,7 +8,12 @@ Ce dépôt sert de page centrale pour présenter deux outils web développés pa
 
 - **Boîte à rythmes** — step sequencer léger pour créer des patterns et jouer des grooves.
   - Dépôt : https://github.com/thibautpe/boite-a-rythmes
+  - Démonstration en ligne : https://thibautpe.github.io/boite-a-rythmes/
   - Documentation et ressources : `Home.md`
+
+## Capture d'écran
+
+![Capture d'écran de la Boîte à rythmes](docs/images/screenshot.svg)
 
 ## Ressources du dépôt
 
@@ -16,4 +21,8 @@ Ce dépôt sert de page centrale pour présenter deux outils web développés pa
 - `docs/` — pages statiques utilisables pour GitHub Pages (par exemple `/docs/index.html`).
 - `manifest.webmanifest` et `sw.js` — manifest et service worker pour la PWA.
 
-Si tu veux, je peux aussi ajouter une capture d'écran, des liens directs vers les démonstrations en ligne ou configurer GitHub Pages depuis `docs/`.
+## Déploiement GitHub Pages
+
+Un workflow GitHub Actions (fichier `.github/workflows/deploy-docs.yml`) publie automatiquement le contenu du dossier `docs/` sur la branche `gh-pages` quand tu pousses sur `main`. Cela crée un site GitHub Pages pour le dépôt. Si tu préfères publier directement depuis `docs/` sur la branche `main`, tu peux activer cette option dans les paramètres du dépôt (Settings → Pages).
+
+Si tu veux, je peux remplacer l'image de démonstration par une capture réelle (envoie l'image) ou l'améliorer.
