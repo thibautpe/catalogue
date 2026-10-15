@@ -1,18 +1,19 @@
 # catalogue
 
-Ce dépôt sert de page centrale présentant deux outils web développés par thibautpe :
+Ce dépôt sert de page centrale pour présenter deux outils web développés par @thibautpe :
 
-- **pMetronome** — métronome visuel (PWA) : tempo, rythmes, accents, presets et outils d’entraînement.
+- **pMetronome** — métronome visuel (PWA) : tempo, rythmes, accents, préréglages et outils d'entraînement.
   - Dépôt : https://github.com/thibautpe/metronome
-  - Démonstration (si GitHub Pages depuis /docs) : `/docs/index.html`
+  - Démonstration : disponible via GitHub Pages si le site est publié depuis le dossier `docs/`.
 
 - **Boîte à rythmes** — step sequencer léger pour créer des patterns et jouer des grooves.
-  - Voir la page du wiki et les ressources dans ce dépôt (Home.md).
+  - Dépôt : https://github.com/thibautpe/boite-a-rythmes
+  - Documentation et ressources : `Home.md`
 
-Ressources dans ce dépôt
+## Ressources du dépôt
 
-- `Home.md` — Présentation détaillée et liens vers les démonstrations.
-- `docs/` — Pages statiques utilisables pour GitHub Pages (ex. `/docs/index.html`).
-- `manifest.webmanifest`, `sw.js` — manifest et service worker pour la PWA.
+- `Home.md` — présentation détaillée et liens vers les démonstrations.
+- `docs/` — pages statiques utilisables pour GitHub Pages (par exemple `/docs/index.html`).
+- `manifest.webmanifest` et `sw.js` — manifest et service worker pour la PWA.
 
-Si tu veux que j'ajoute une capture d'écran, des liens directs vers une démonstration en ligne, ou que je mette en place GitHub Pages depuis `/docs`, dis-le et je m'en occupe.
+Si tu veux, je peux aussi ajouter une capture d'écran, des liens directs vers les démonstrations en ligne ou configurer GitHub Pages depuis `docs/`.
