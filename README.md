@@ -1,20 +1,20 @@
 # catalogue
 
-Ce dépôt sert de page centrale pour présenter deux outils web développés par @thibautpe :
+Ce dépôt sert de page centrale pour présenter deux outils web   :
 
-- **pMetronome** — métronome visuel (PWA) : tempo, rythmes, accents, préréglages et outils d'entraînement.
+- **Metronome** — métronome visuel (PWA) : tempo, rythmes, accents, préréglages et outils d'entraînement.
   - Dépôt : https://github.com/thibautpe/metronome
   - Démonstration : disponible via GitHub Pages si le site est publié depuis le dossier `docs/`.
 
-- **Boîte à rythmes** — step sequencer léger pour créer des patterns et jouer des grooves.
+- **Boîte à rythmes** —  Sequencer léger (PWA) pour créer des patterns et jouer des grooves.
   - Dépôt : https://github.com/thibautpe/boite-a-rythmes
   - Démonstration en ligne : https://thibautpe.github.io/boite-a-rythmes/
   - Documentation et ressources : `Home.md`
 
 ## Capture d'écran
 
-![Capture d'écran de la Boîte à rythmes](docs/images/screenshot.svg)
-
+![Capture d'écran de la Boîte à rythmes](docs/images/metronome.png)
+![Capture d'écran de la Boîte à rythmes](docs/images/boite.png)
 ## Ressources du dépôt
 
 - `Home.md` — présentation détaillée et liens vers les démonstrations.
@@ -24,5 +24,4 @@ Ce dépôt sert de page centrale pour présenter deux outils web développés pa
 ## Déploiement GitHub Pages
 
 Un workflow GitHub Actions (fichier `.github/workflows/deploy-docs.yml`) publie automatiquement le contenu du dossier `docs/` sur la branche `gh-pages` quand tu pousses sur `main`. Cela crée un site GitHub Pages pour le dépôt. Si tu préfères publier directement depuis `docs/` sur la branche `main`, tu peux activer cette option dans les paramètres du dépôt (Settings → Pages).
-
-Si tu veux, je peux remplacer l'image de démonstration par une capture réelle (envoie l'image) ou l'améliorer.
+ 
