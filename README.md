@@ -4,7 +4,7 @@ Ce dépôt sert de page centrale pour présenter deux outils web   :
 
 - **Metronome** — métronome visuel (PWA) : tempo, rythmes, accents, préréglages et outils d'entraînement.
   - Dépôt : [Repo Metronome](https://github.com/thibautpe/metronome)
-  - Démonstration : [Metronome](https://thibautpe.github.io/metronome/))
+  - Démonstration : [Metronome](https://thibautpe.github.io/metronome/)
 
 - **Boîte à rythmes** —  Sequencer léger (PWA) pour créer des patterns et jouer des grooves.
   - Dépôt : [Repo Boîte à rythmes](https://github.com/thibautpe/boite-a-rythmes)
@@ -23,7 +23,3 @@ Ce dépôt sert de page centrale pour présenter deux outils web   :
 - `docs/` — pages statiques utilisables pour GitHub Pages (par exemple `/docs/index.html`).
 - `manifest.webmanifest` et `sw.js` — manifest et service worker pour la PWA.
 
-## Déploiement GitHub Pages
-
-Un workflow GitHub Actions (fichier `.github/workflows/deploy-docs.yml`) publie automatiquement le contenu du dossier `docs/` sur la branche `gh-pages` quand tu pousses sur `main`. Cela crée un site GitHub Pages pour le dépôt. 
- 
