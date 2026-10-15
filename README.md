@@ -1,4 +1,4 @@
-# catalogue
+# Catalogue
 
 Ce dépôt sert de page centrale pour présenter deux outils web   :
 
