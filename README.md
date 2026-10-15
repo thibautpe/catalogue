@@ -16,6 +16,7 @@ Ce dépôt sert de page centrale pour présenter deux outils web   :
 ![Capture d'écran du métronome](docs/images/metronome.png)
 ### apture d'écran de la Boîte à rythmes
 ![Capture d'écran de la Boîte à rythmes](docs/images/boite.png)
+ 
 ## Ressources du dépôt
 
 - `Home.md` — présentation détaillée et liens vers les démonstrations.

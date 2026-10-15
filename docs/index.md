@@ -1,14 +1,14 @@
 ---
-title: pMetronome & Boîte à rythmes
+title: Metronome & Boîte à rythmes
 ---
 
-# pMetronome & Boîte à rythmes — Présentation
+# Metronome & Boîte à rythmes — Présentation
 
 Bienvenue ! Cette page présente les deux petits outils musicaux hébergés ou référencés depuis ce dépôt : pMetronome (métronome visuel PWA) et une Boîte à rythmes (step sequencer léger).
 
-## pMetronome
+##Metronome
 
-pMetronome est un métronome visuel, conçu comme une Progressive Web App (PWA) :
+Metronome est un métronome visuel, conçu comme une Progressive Web App (PWA) :
 
 - Tempo réglable (BPM)
 - Choix de subdivisions et de signatures rythmiques
@@ -55,9 +55,4 @@ URL utilisateur GitHub Pages (si activé) :
 - Page de démonstration : `/docs/index.html` (si présente)
 
 ---
-
-Si vous voulez, je peux :
-
-- Ajouter des captures d'écran et exemples de presets.
-- Lier précisément la page de la Boîte à rythmes si vous me donnez son URL ou chemin exact.
-- Mettre en forme la page pour GitHub Pages (Jekyll/MD) ou générer directement un index.html statique.
+ 
